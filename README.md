@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About Me: 🚀 MERN Stack Dev | UI/UX Designer | Building apps & dreaming startups 💡
 🔭 I’m currently working on  MERN STACK and APP DEV<br>👯 I’m looking to collaborate on AI + WEB Dev Projects<br>🌱 I’m currently learning React Native and AI/ML<br>💬 Ask me about  React, React Native, Next js, NodeJs, MongoDb, TypeScript<br>📫 How to reach me - workwithme1406@gmail.com<br>⚡ Fun fact- Jab tak bug fix na ho jaaye, tab tak neend ve nahi aati.
 
 
